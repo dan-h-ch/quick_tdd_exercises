@@ -1,0 +1,22 @@
+{
+  "name": "quick_tdd_exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node stack.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan-h-ch/quick_tdd_exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dan-h-ch/quick_tdd_exercises/issues"
+  },
+  "homepage": "https://github.com/dan-h-ch/quick_tdd_exercises#readme",
+  "dependencies": {
+    "expect": "^1.20.2"
+  }
+}
